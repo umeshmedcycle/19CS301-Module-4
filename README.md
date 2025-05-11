@@ -4,17 +4,19 @@ ExNo.4a DICTIONARY- SIZE OF DICTIONARY
 To write a  python program to print the size of dictionary using getsizeof() from sys module.
 ### ALGORITHM
 
-Step 1:	 Begin the program.
+Step 1: Start the program.
 
-Step 2:	  Import the sys module to access the getsizeof() function.
+Step 2: Import the sys module to use the getsizeof() function for measuring memory size.
 
-Step 3:	 Define dictionaries with necessary values.
+Step 3: Create three dictionaries (dic1, dic2, and dic3) with predefined key-value pairs.
 
-Step 4:	 Use sys.getsizeof(dic1) to get the size of dic1,dic2,dic3.
+Step 4: Use sys.getsizeof() to calculate the memory size of each dictionary.
 
-Step 5:	  Print the size value of dic1, dic2,dic3.
+Step 5: Display the memory size of dic1, dic2, and dic3 using the print() function.
 
-Step 6:	 Terminate the program.
+Step 6: End the program.
+
+
 
 ### PROGRAM
 ```import sys
